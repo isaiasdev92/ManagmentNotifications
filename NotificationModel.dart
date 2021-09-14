@@ -10,9 +10,6 @@ class NotificationModel {
   static String columnIsSeen = 'IsSeen';
   static String columnTimestamp = 'Timestamp';
 
-  // File jsonFile;
-  // static bool fileExists = false;
-
   String id;
   String requestID;
   String title;
